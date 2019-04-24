@@ -19,7 +19,7 @@ int main()
         p[i]=i+1;           //contains process number
     }
  
-    //taking lowest burst time as its highest priority sorting with repect to burst time in ascending order
+    //taking lowest burst time as its highest priority sorting with respect to burst time in ascending order
     
     for(i=0;i<n;i++)
     {
