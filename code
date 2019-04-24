@@ -24,7 +24,7 @@ int main()
         pos=i;
         for(j=i+1;j<n;j++)
         {
-            if(pr[j]<pr[pos])
+            if(bt[j]<bt[pos])
                 pos=j;
         }
  
